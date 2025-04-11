@@ -9,4 +9,4 @@ This is a collaborative Quarto project.
 
 # Contributions
 
-<!-- Student sections will go here -->
+change by person B
